@@ -1,0 +1,7 @@
+{
+  "projects": {
+    "default": "tnotes-ifpi",
+    "teste": "tnotes-if",
+    "tnotes": "tnotes-if"
+  }
+}
